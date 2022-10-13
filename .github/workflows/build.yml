@@ -1,4 +1,4 @@
-name: Build and deploy .NET Core application to Web App WebAppDemo20221013132758
+name: Build and deploy .NET Core application
 
 on:
   [push]
