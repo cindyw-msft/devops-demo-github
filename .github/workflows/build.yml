@@ -1,9 +1,7 @@
 name: Build and deploy .NET Core application to Web App WebAppDemo20221013132758
 
 on:
-  push:
-    branches:
-    - master
+  [push]
 
 env:
   AZURE_WEBAPP_NAME: WebAppDemo20221013132758
